@@ -1,2 +1,3 @@
-# lpic-vagrant
-Vagrant for LPIC2
+# Deep Learning Tensorflow Examples
+
+Deep Learning Tensorflow Examples with datasets and Jupyter Notebooks (originally develop in Colab environments)
